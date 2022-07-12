@@ -8,6 +8,7 @@ public class Hung {
 			System.out.println("Go and eat");
 		else
 			System.out.println("continue doing work!");
+		System.out.println("Welcome");
 
 	}
 
